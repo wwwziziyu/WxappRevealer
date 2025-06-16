@@ -50,10 +50,14 @@ chmod +x WxappRevealer-macos
 	•	run <file>：执行 unpack → analyze → export
 	•	-o, --out <dir>：指定输出目录，默认工作目录
 	•	--no-clean：保留中间解包文件
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/98982919-04bf-4cac-b9f2-e15a5c5ae0e2" />
+
+
 ### 4. 查看报告
 输出目录下会生成：
 	•	analysis.json —— 原始分析结果
 	•	report.md   —— 结构化 Markdown 报告
+<img width="1215" alt="image" src="https://github.com/user-attachments/assets/2ef4b03e-e0d5-4f57-9369-276bbc16f3aa" />
 
 ## 项目结构
 ```
