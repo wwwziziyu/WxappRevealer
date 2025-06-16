@@ -59,6 +59,10 @@ chmod +x WxappRevealer-macos
 	•	report.md   —— 结构化 Markdown 报告
 <img width="1215" alt="image" src="https://github.com/user-attachments/assets/2ef4b03e-e0d5-4f57-9369-276bbc16f3aa" />
 
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/9dbf4594-d41b-4132-a062-0aae03eb035b" />
+
+想要加正则就自己加，目录放下面了
+
 ## 项目结构
 ```
 WxappRevealer/
