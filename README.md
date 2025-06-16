@@ -68,10 +68,6 @@ chmod +x WxappRevealer-macos
 WxappRevealer/
 ├── bin/
 │   └── index.js                  # CLI 入口
-├── dist/
-│   ├── WxappRevealer-macos       # macOS 可执行
-│   ├── WxappRevealer-win.exe     # Windows 可执行
-│   └── WxappRevealer-linux       # Linux 可执行
 ├── src/
 │   ├── analyzer/
 │   │   ├── astAnalyzer.js        # 主分析逻辑
@@ -95,7 +91,6 @@ WxappRevealer/
 │       └── secretPatterns.json   # 正则敏感模式配置
 ├── package.json                  # 项目依赖与 CLI 配置
 ├── README.md                     # 本文档
-└── .gitignore                    # 忽略规则
 ```
 欢迎试用并提交 Issue/PR，共同完善 WxappRevealer！
 MIT License ©eziyu
